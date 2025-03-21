@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+dnspython
+googlesearch-python
+scrapy
+pandas
+python-dotenv
+loguru
+shodan
+dnspython
+requests

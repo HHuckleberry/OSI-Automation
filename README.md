@@ -30,7 +30,7 @@ osint-automation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/osint-automation.git
+   git clone https://github.com/HHuckleberry/OSI-Automation
    cd osint-automation
    ```
 
